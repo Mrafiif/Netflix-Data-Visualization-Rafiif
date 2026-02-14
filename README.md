@@ -1,4 +1,4 @@
-#Netflix Data Visualization & Exploratory Data Analysis (EDA)#
+**Netflix Data Visualization & Exploratory Data Analysis (EDA)**
 <img width="515" height="735" alt="Screenshot 2026-02-11 192137" src="https://github.com/user-attachments/assets/ce05f922-ae27-433c-bac6-57b11ac85b3e" />
 
 Project Overview
